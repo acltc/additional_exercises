@@ -1,0 +1,5 @@
+DIFFICULTY: 3
+
+Create a program that asks the user to enter as many numbers as s/he wishes, and as soon as the user enters: 'done', the program stops asking for numbers. Then, tell the user the median number. The definition of a median number is found here: http://www.mathsisfun.com/median.html
+
+Note from that article that the median is found differently, depending on whether there are an even or odd amount of numbers. Your program should handle both cases.
