@@ -1,0 +1,33 @@
+Difficulty: 3
+
+Create the student pair Randomizer program that we use every day.
+
+Version #1:
+
+It doesn't actually say anything aloud, but simply prints out all the students in randomized pairs, like so:
+
+Ajay Ekesa
+Yedidya Weiner
+
+Charlie Jaime
+Jeff Rothschild
+
+Dany Han
+Harper Essenfeld
+
+Oscar Cisneros Jr.
+Chelsea Troy
+
+Mary Liz Lehman
+Trevor Jones
+
+Version #2:
+
+It should also speak the students' names aloud. To accomplish this, you'll need the ability to run terminal commands from your Ruby program. Doing so is simple, you just need to use the special backtick quotes. These are the quote marks which are on the same key as the ~ on your keyboard. It looks like this: ` . The following are regular quotes: ' and " . The backtick is different in that it's slanted: `. 
+
+Thus, if you wanted to use the terminal "say" command, you'd do something like this:
+
+x = "Hello!"
+`say #{x}`
+
+You should also have the computer speak out: "Next Group!" between each group, but not after the very last group.
