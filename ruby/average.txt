@@ -1,3 +1,0 @@
-DIFFICULTY: 2
-
-Create a program that asks the user to enter as many numbers as s/he wishes, and as soon as the user enters: 'done', the program stops asking for numbers. Then, tell the user the average of all the numbers.
